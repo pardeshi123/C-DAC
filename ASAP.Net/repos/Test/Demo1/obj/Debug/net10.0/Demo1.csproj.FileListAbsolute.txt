@@ -1,0 +1,15 @@
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\bin\Debug\net10.0\Demo1.exe
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\bin\Debug\net10.0\Demo1.deps.json
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\bin\Debug\net10.0\Demo1.runtimeconfig.json
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\bin\Debug\net10.0\Demo1.dll
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\bin\Debug\net10.0\Demo1.pdb
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\Demo1.AssemblyInfoInputs.cache
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\Demo1.AssemblyInfo.cs
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\Demo1.dll
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\refint\Demo1.dll
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\Demo1.pdb
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\Demo1.genruntimeconfig.cache
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\ref\Demo1.dll
+C:\Users\BusinessComputers.in\source\repos\Test\Demo1\obj\Debug\net10.0\Demo1.csproj.AssemblyReference.cache
