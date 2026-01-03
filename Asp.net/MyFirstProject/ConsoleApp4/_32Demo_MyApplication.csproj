@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\_31Demo_BVSAttribute\_31Demo_BVSAttribute.csproj" />
+    <ProjectReference Include="..\_33Demo_EmpLib\_33Demo_EmpLib.csproj" />
+    <ProjectReference Include="..\_34Demo_CustomAttributes\_34Demo_CustomAttributes.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="_31Demo_BVSAttribute">
+      <HintPath>..\_31Demo_BVSAttribute\bin\Debug\net6.0\_31Demo_BVSAttribute.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
+

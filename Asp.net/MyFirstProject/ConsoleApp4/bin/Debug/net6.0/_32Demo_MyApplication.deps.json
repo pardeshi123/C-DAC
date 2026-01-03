@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_32Demo_MyApplication/1.0.0": {
+        "dependencies": {
+          "_31Demo_BVSAttribute": "1.0.0",
+          "_33Demo_EmpLib": "1.0.0",
+          "_34Demo_CustomAttributes": "1.0.0",
+          "_31Demo_BVSAttribute.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "_32Demo_MyApplication.dll": {}
+        }
+      },
+      "_33Demo_EmpLib/1.0.0": {
+        "dependencies": {
+          "_31Demo_BVSAttribute": "1.0.0",
+          "_34Demo_CustomAttributes": "1.0.0"
+        },
+        "runtime": {
+          "_33Demo_EmpLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "_34Demo_CustomAttributes/1.0.0": {
+        "runtime": {
+          "_34Demo_CustomAttributes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "_31Demo_BVSAttribute.Reference/1.0.0.0": {
+        "runtime": {
+          "_31Demo_BVSAttribute.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_32Demo_MyApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_33Demo_EmpLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_34Demo_CustomAttributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_31Demo_BVSAttribute.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

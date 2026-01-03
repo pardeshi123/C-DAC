@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\bin\Debug\net6.0\_31Demo_BVSAttribute.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\bin\Debug\net6.0\_31Demo_BVSAttribute.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\bin\Debug\net6.0\_31Demo_BVSAttribute.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\obj\Debug\net6.0\_31Demo_BVSAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\obj\Debug\net6.0\_31Demo_BVSAttribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\obj\Debug\net6.0\_31Demo_BVSAttribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\obj\Debug\net6.0\_31Demo_BVSAttribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\obj\Debug\net6.0\_31Demo_BVSAttribute.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\obj\Debug\net6.0\refint\_31Demo_BVSAttribute.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\obj\Debug\net6.0\_31Demo_BVSAttribute.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_31Demo_BVSAttribute\obj\Debug\net6.0\ref\_31Demo_BVSAttribute.dll

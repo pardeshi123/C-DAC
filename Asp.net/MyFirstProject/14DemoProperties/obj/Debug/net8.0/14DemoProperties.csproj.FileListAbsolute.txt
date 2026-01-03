@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\bin\Debug\net8.0\14DemoProperties.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\bin\Debug\net8.0\14DemoProperties.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\bin\Debug\net8.0\14DemoProperties.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\bin\Debug\net8.0\14DemoProperties.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\bin\Debug\net8.0\14DemoProperties.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\14DemoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\14DemoProperties.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\14DemoProperties.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\14DemoProperties.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\14DemoProperties.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\refint\14DemoProperties.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\14DemoProperties.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\14DemoProperties.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\14DemoProperties\obj\Debug\net8.0\ref\14DemoProperties.dll

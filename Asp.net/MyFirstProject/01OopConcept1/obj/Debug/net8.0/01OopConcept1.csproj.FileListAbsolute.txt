@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\bin\Debug\net8.0\01OopConcept1.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\bin\Debug\net8.0\01OopConcept1.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\bin\Debug\net8.0\01OopConcept1.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\bin\Debug\net8.0\01OopConcept1.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\bin\Debug\net8.0\01OopConcept1.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\01OopConcept1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\01OopConcept1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\01OopConcept1.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\01OopConcept1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\01OopConcept1.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\refint\01OopConcept1.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\01OopConcept1.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\01OopConcept1.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\01OopConcept1\obj\Debug\net8.0\ref\01OopConcept1.dll

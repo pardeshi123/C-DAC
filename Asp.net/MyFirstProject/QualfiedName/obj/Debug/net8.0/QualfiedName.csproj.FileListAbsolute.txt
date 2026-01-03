@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\QualfiedName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\QualfiedName.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\QualfiedName.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\QualfiedName.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\bin\Debug\net8.0\QualfiedName.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\bin\Debug\net8.0\QualfiedName.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\bin\Debug\net8.0\QualfiedName.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\bin\Debug\net8.0\QualfiedName.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\bin\Debug\net8.0\QualfiedName.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\QualfiedName.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\refint\QualfiedName.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\QualfiedName.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\QualfiedName.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\QualfiedName\obj\Debug\net8.0\ref\QualfiedName.dll

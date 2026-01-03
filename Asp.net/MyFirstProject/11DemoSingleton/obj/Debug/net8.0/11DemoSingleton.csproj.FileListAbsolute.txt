@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\bin\Debug\net8.0\11DemoSingleton.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\bin\Debug\net8.0\11DemoSingleton.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\bin\Debug\net8.0\11DemoSingleton.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\bin\Debug\net8.0\11DemoSingleton.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\bin\Debug\net8.0\11DemoSingleton.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\11DemoSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\11DemoSingleton.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\11DemoSingleton.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\11DemoSingleton.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\11DemoSingleton.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\refint\11DemoSingleton.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\11DemoSingleton.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\11DemoSingleton.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\11DemoSingleton\obj\Debug\net8.0\ref\11DemoSingleton.dll

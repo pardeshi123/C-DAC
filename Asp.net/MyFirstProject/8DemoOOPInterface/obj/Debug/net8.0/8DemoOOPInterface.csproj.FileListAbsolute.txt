@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\bin\Debug\net8.0\8DemoOOPInterface.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\bin\Debug\net8.0\8DemoOOPInterface.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\bin\Debug\net8.0\8DemoOOPInterface.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\bin\Debug\net8.0\8DemoOOPInterface.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\bin\Debug\net8.0\8DemoOOPInterface.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\8DemoOOPInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\8DemoOOPInterface.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\8DemoOOPInterface.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\8DemoOOPInterface.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\8DemoOOPInterface.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\refint\8DemoOOPInterface.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\8DemoOOPInterface.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\8DemoOOPInterface.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\8DemoOOPInterface\obj\Debug\net8.0\ref\8DemoOOPInterface.dll

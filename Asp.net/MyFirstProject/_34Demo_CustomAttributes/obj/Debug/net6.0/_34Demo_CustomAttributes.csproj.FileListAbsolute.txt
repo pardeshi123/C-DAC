@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\bin\Debug\net6.0\_34Demo_CustomAttributes.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\bin\Debug\net6.0\_34Demo_CustomAttributes.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\bin\Debug\net6.0\_34Demo_CustomAttributes.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\obj\Debug\net6.0\_34Demo_CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\obj\Debug\net6.0\_34Demo_CustomAttributes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\obj\Debug\net6.0\_34Demo_CustomAttributes.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\obj\Debug\net6.0\_34Demo_CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\obj\Debug\net6.0\_34Demo_CustomAttributes.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\obj\Debug\net6.0\refint\_34Demo_CustomAttributes.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\obj\Debug\net6.0\_34Demo_CustomAttributes.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_34Demo_CustomAttributes\obj\Debug\net6.0\ref\_34Demo_CustomAttributes.dll

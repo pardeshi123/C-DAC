@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\bin\Debug\net8.0\18DemoDelegates.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\bin\Debug\net8.0\18DemoDelegates.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\bin\Debug\net8.0\18DemoDelegates.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\bin\Debug\net8.0\18DemoDelegates.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\bin\Debug\net8.0\18DemoDelegates.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\18DemoDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\18DemoDelegates.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\18DemoDelegates.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\18DemoDelegates.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\18DemoDelegates.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\refint\18DemoDelegates.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\18DemoDelegates.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\18DemoDelegates.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\!8DemoDelegates\obj\Debug\net8.0\ref\18DemoDelegates.dll

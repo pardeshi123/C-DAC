@@ -1,0 +1,44 @@
+﻿@model WebApplication7.Models.IETDbViewModel
+
+<h3>Emp Records</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model.allEmps)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td>@emp.Address</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<hr />
+<h3>Customer Records</h3>
+<table>
+    <thead>
+        <tr>
+            <th>CId</th>
+            <th>CName</th>
+            <th>BillNo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cust in Model.allCust)
+        {
+            <tr>
+                <td>@cust.cid</td>
+                <td>@cust.cname</td>
+                <td>@cust.billNo</td>
+            </tr>
+        }
+    </tbody>
+</table>
+    

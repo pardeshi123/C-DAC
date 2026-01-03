@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\bin\Debug\net6.0\_27Demo_BinarySerialization.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\bin\Debug\net6.0\_27Demo_BinarySerialization.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\bin\Debug\net6.0\_27Demo_BinarySerialization.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\bin\Debug\net6.0\_27Demo_BinarySerialization.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\bin\Debug\net6.0\_27Demo_BinarySerialization.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\_27Demo_BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\_27Demo_BinarySerialization.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\_27Demo_BinarySerialization.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\_27Demo_BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\_27Demo_BinarySerialization.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\refint\_27Demo_BinarySerialization.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\_27Demo_BinarySerialization.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\_27Demo_BinarySerialization.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_27Demo_BinarySerialization\obj\Debug\net6.0\ref\_27Demo_BinarySerialization.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\bin\Debug\net8.0\10DemoReport.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\bin\Debug\net8.0\10DemoReport.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\bin\Debug\net8.0\10DemoReport.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\bin\Debug\net8.0\10DemoReport.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\bin\Debug\net8.0\10DemoReport.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\10DemoReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\10DemoReport.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\10DemoReport.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\10DemoReport.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\10DemoReport.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\refint\10DemoReport.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\10DemoReport.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\10DemoReport.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\10DemoReport\obj\Debug\net8.0\ref\10DemoReport.dll

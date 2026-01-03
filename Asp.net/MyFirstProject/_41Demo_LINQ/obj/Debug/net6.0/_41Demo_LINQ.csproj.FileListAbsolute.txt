@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\bin\Debug\net6.0\_41Demo_LINQ.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\bin\Debug\net6.0\_41Demo_LINQ.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\bin\Debug\net6.0\_41Demo_LINQ.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\bin\Debug\net6.0\_41Demo_LINQ.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\bin\Debug\net6.0\_41Demo_LINQ.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\_41Demo_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\_41Demo_LINQ.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\_41Demo_LINQ.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\_41Demo_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\_41Demo_LINQ.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\refint\_41Demo_LINQ.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\_41Demo_LINQ.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\_41Demo_LINQ.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\_41Demo_LINQ\obj\Debug\net6.0\ref\_41Demo_LINQ.dll

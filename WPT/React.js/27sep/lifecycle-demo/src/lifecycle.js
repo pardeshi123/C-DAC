@@ -8,11 +8,12 @@ class App extends Component {
     };
     console.log('Constructor: Component is being constructed');
   }
-
+  
   componentDidMount() {
     console.log('componentDidMount: Component has mounted');
   }
 
+  
   componentDidUpdate(prevProps, prevState) {
     if (prevState.count !== this.state.count) {
       console.log(`componentDidUpdate: Count changed from ${prevState.count} to ${this.state.count}`);

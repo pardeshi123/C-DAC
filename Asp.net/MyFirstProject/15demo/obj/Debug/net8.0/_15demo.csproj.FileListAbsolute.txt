@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\bin\Debug\net8.0\_15demo.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\bin\Debug\net8.0\_15demo.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\bin\Debug\net8.0\_15demo.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\obj\Debug\net8.0\_15demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\obj\Debug\net8.0\_15demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\obj\Debug\net8.0\_15demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\obj\Debug\net8.0\_15demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\obj\Debug\net8.0\_15demo.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\obj\Debug\net8.0\refint\_15demo.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\obj\Debug\net8.0\_15demo.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\15demo\obj\Debug\net8.0\ref\_15demo.dll

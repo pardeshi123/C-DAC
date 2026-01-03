@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\filters\\ietexexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\filters\\ietexexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\migrations\\ietdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\migrations\\ietdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\migrations\\20260102033250_empmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\migrations\\20260102033250_empmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\migrations\\20260102033250_empmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\migrations\\20260102033250_empmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\filters\\ietfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\filters\\ietfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\filters\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\filters\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\controllers\\exceptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\exceptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\asp.net\\webapps\\11demo_ef_filters_sessions_webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F3DE7-A1A4-49D0-9F01-A05F992E5224}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T03:51:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T03:50:20.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T03:49:51.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T03:47:13.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T03:47:04.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T03:46:17.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:42:52.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\User.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:40:11.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:39:56.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\Emp.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:39:23.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IETDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\IETDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\IETDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\IETDbContextModelSnapshot.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\IETDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:38:15.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260102033250_EmpMigration.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\20260102033250_EmpMigration.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\20260102033250_EmpMigration.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\20260102033250_EmpMigration.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\20260102033250_EmpMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:34:51.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260102033250_EmpMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\20260102033250_EmpMigration.Designer.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\20260102033250_EmpMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\20260102033250_EmpMigration.Designer.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Migrations\\20260102033250_EmpMigration.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:34:01.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:30:48.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IETFilter.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:29:20.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IETExExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:28:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\Auth.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\Auth.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\Auth.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:27:48.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:24:27.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExceptionController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\ExceptionController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\ExceptionController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\ExceptionController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\ExceptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:23:43.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpsController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\EmpsController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\EmpsController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\EmpsController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\EmpsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:23:21.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:22:10.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:22:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T02:03:05.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T02:01:02.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Asp.net\\WebApps\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:21:14.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

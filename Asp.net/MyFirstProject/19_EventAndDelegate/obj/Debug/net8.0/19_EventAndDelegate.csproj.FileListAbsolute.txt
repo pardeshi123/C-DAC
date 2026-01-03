@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\bin\Debug\net8.0\19_EventAndDelegate.exe
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\bin\Debug\net8.0\19_EventAndDelegate.deps.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\bin\Debug\net8.0\19_EventAndDelegate.runtimeconfig.json
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\bin\Debug\net8.0\19_EventAndDelegate.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\bin\Debug\net8.0\19_EventAndDelegate.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\19_EventAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\19_EventAndDelegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\19_EventAndDelegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\19_EventAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\19_EventAndDelegate.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\refint\19_EventAndDelegate.dll
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\19_EventAndDelegate.pdb
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\19_EventAndDelegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\Asp.net\MyFirstProject\19_EventAndDelegate\obj\Debug\net8.0\ref\19_EventAndDelegate.dll
